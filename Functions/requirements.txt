@@ -3,3 +3,6 @@
 # Manually managing azure-functions-worker may cause unexpected issues
 
 azure-functions
+basketball_reference_web_scraper==4.14.0
+numpy==1.26.3
+pandas==2.2.2
